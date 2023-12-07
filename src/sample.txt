@@ -1,0 +1,31 @@
+
+Redux 
+
+=> npm i redux react-redux 
+
+UI > User Event > Action > Reducer > store > State > UI
+
+Data Carry => ( type , payload{data} )
+
+For Tailwind React CSS flowbite 
+
+https://flowbite.com/docs/getting-started/react/
+
+API Reference => https://www.themoviedb.org/
+
+api_key => afe966afd08609b2411eaaa179ba76cd
+
+https://api.themoviedb.org/3/movie/popular?api_key=afe966afd08609b2411eaaa179ba76cd
+
+npm i axios
+
+movie image => https://image.tmdb.org/t/p/w500/Movie_Image
+
+movie detail => https://api.themoviedb.org/3/movie/{movie_id}?api_key=afe966afd08609b2411eaaa179ba76cd
+
+movie search => https://api.themoviedb.org/3/search/movie?query="Titanic"&api_key=afe966afd08609b2411eaaa179ba76cd
+
+https://api.themoviedb.org/3/search/movie?query=%22Titanic%22&api_key=afe966afd08609b2411eaaa179ba76cd
+
+
+https://api.themoviedb.org/3/movie/now_playing
